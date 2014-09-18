@@ -1,0 +1,9 @@
+>XML:-xml is a simple and very flexible language.it can run any platform ,operating system or enviroment
+and design to provide a machanism to descive there content in a better way.
+in comperision to html it defines any type of tags as per the requirement
+> it prove std framework which one can define own tags and customize
+thier requirements.
+>DTD:-xml is a markup language that generate very flexible documents there is no check on the tag
+used within xml document.dtd provides a way by which certain tag can be implement on the documents
+if the xml document matches the constrains listed in dtd then the document is known as valid documents else 
+it is known as invalid document.a dtd can added internally or externally.

@@ -1,0 +1,32 @@
+class digit
+{
+ int num;
+ dig(int num)
+ {
+  this.num=num;
+ }
+ void display()
+ {
+  int sum=0,rem,arm;
+   arm=num;
+   while(num>0)
+   {
+    rem=num%10;
+    sum=sum+rem*rem*rem;
+    num=num/10;
+    }
+    if(arm==sum)
+    {
+ 
+   System.out.println(sum);
+  }
+ 
+}
+class armstrong
+{
+ public static void main(String args[])
+ {
+  dig d = new dig(54321);
+  d.display();
+ }
+}

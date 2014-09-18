@@ -1,0 +1,5 @@
+In the first phase :-
+
+rquire just one pass through the data.to computer the distance between clusters, the algorithm maintaining a data structure called an associated clustering featers, for each cluster which maintains information about the clustyer and its projection.
+
+In The second phase:-cluster are combined to find the data 
